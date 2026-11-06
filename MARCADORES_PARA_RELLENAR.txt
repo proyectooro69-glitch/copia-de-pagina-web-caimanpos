@@ -1,0 +1,10 @@
+MARCADORES PARA RELLENAR (antes de publicar)
+Datos legales: [NOMBRE O RAZÓN SOCIAL DEL TITULAR] · [DOCUMENTO FISCAL / NIF / ID] · [DOMICILIO] · [PAÍS] · [A CONFIRMAR] ley y jurisdicción
+WhatsApp: [NÚMERO DE WHATSAPP CON CÓDIGO DE PAÍS] — en esta revisión el botón usa el enlace wa.me que ya tenía el sitio, sin mostrar el número como texto
+PIN / ojito: [PIN QUE ELEGIREMOS, solo en el servidor] · [URL DE LA FUNCIÓN SEGURA] — el ojito está puesto en la esquina inferior izquierda, pero el panel solo mostrará datos cuando conectes la función segura (recomendación: Supabase nuevo, gratis)
+Plazos: [PLAZO A CONFIRMAR] en Cómo trabajamos
+Pagos: [A CONFIRMAR POR EL TITULAR] en ¿Cómo pago? y ¿Quién paga dominio y hosting?
+Zona horaria: [ZONA HORARIA A CONFIRMAR] en Lunes a Viernes 9:00-18:00
+Persona en esta variante: NOSOTROS ("la creamos contigo", "Respondemos"). Variante preparada el 2026-11-05 a partir de la v2 marca Caimán; la versión YO queda intacta en caimanpos-revision-2026-11-04-v2.
+Pendientes que NO pude verificar desde el código: la tarjeta vCard externa (vcard.link) puede incluir email — revísala o cámbiala; el chatbot completo no se ve desde fuera, revisa que no muestre email.
+Planes: NO TOCADOS, verificados byte a byte en esta revisión.
