@@ -1,4 +1,0 @@
-REVISIÓN CAIMANPOS 2026-11-04 — BORRADOR, NO PUBLICADO
-Trabaja sobre la v2 del 30 oct. Para subir: en el repo de GitHub Pages, subir index.html, musica.mp3, caiman_chatbot.webp, videos/, aviso-legal.html, privacidad.html, cookies.html, terminos.html, sitemap.xml, robots.txt. Esperar despliegue en verde. NO subir sin revisar los marcadores.
-Cambios aplicados: marca unificada (sin tocar caimanpos.com, @caimanpos ni CAIMÁNPOS), título, meta description, Open Graph, favicon, hero nuevo con 2 botones, menú nuevo, demo "Esta es mi tarjeta real", párrafo de webs corto, FAQ nuevas, Cómo trabajamos, contacto solo WhatsApp, banner de cookies, ojito (panel pendiente de función segura), aviso de IA en el chatbot, enlaces legales en el pie.
-NO cambiado: planes y precios (verificados intactos), video promocional genérico propio (no es un servicio en venta), demo Herbalife.
