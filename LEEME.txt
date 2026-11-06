@@ -1,3 +1,4 @@
 Solo estos 4 archivos cambiaron de YO a NOSOTROS.
 Ya tienes todo lo demas (musica, video, chatbot, aviso-legal, cookies, sitemap, robots) de la v2 que subiste a la copia.
 Sube solo estos 4 archivos al repo, reemplazando los que ya estan, y listo.
+reintento
