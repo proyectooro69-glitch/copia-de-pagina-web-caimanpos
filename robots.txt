@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://caimanpos.com/sitemap.xml
